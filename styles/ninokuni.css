@@ -18,6 +18,12 @@ table {
     display: table;
 }
 
-body {
-    background-color: aqua;
+th {
+    display: table-cell;
+    vertical-align: inherit;
+}
+
+td {
+    display: table-cell;
+    vertical-align: inherit;
 }
