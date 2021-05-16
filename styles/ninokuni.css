@@ -16,14 +16,22 @@ table {
     background: #f5f5f7;
     text-align: left;
     display: table;
+    border-color: rgb(55, 60, 62);
+    background-image: initial;
+    background-color: rgb(29, 32, 33);
+    
 }
 
 th {
     display: table-cell;
     vertical-align: inherit;
+    border-width: 1px;
+    border-style: solid;
 }
 
 td {
     display: table-cell;
     vertical-align: inherit;
+    border-width: 1px;
+    border-style: solid;
 }
