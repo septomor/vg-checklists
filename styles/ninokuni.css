@@ -27,6 +27,9 @@ th {
     vertical-align: inherit;
     border-width: 1px;
     border-style: solid;
+    color: rgb(168, 160, 149);
+    background-image: initial;
+    background-color: rgb(35, 38, 39);
 }
 
 td {
@@ -34,4 +37,10 @@ td {
     vertical-align: inherit;
     border-width: 1px;
     border-style: solid;
+}
+
+table tr td {
+    color: rgb(168, 160, 149);
+    border-bottom-color: rgb(55, 60, 62);
+    border-left-color: rgb(55, 60, 62);
 }
